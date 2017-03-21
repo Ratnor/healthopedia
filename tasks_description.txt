@@ -1,0 +1,5 @@
+Tasks to do:
+
+1. [x] Set up github repo.
+2. [ ] Start documentation using LaTeX.
+3. [ ] Get IEEE Business Requirements guideline.
